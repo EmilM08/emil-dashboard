@@ -4,7 +4,8 @@
        → your dashboard, running on this computer
 - [x] 2. GitHub — gh auth login (one browser sign-in; I do the git) RECOMMENDED
        → your code is saved and safe; the door to going live
-- [ ] 3. Vercel — import the repo, click Deploy                    RECOMMENDED
+- [x] 3. Vercel — import the repo, click Deploy                    RECOMMENDED
+       → https://emil-dashboard-l392q258b-emil-s-projects21.vercel.app
        → your dashboard LIVE at your own URL; every push auto-updates it
 - [ ] 4. Supabase — new project, run supabase/sync.sql +
        tiles.sql, add the two NEXT_PUBLIC keys                     OPTIONAL
