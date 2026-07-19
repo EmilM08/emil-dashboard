@@ -7,7 +7,7 @@
 - [x] 3. Vercel — import the repo, click Deploy                    RECOMMENDED
        → https://emil-dashboard-l392q258b-emil-s-projects21.vercel.app
        → your dashboard LIVE at your own URL; every push auto-updates it
-- [ ] 4. Supabase — new project, run supabase/sync.sql +
+- [x] 4. Supabase — new project, run supabase/sync.sql +
        tiles.sql, add the two NEXT_PUBLIC keys                     OPTIONAL
        → memory: data follows you across devices instead of one browser;
          unlocks the connector + sweeps
